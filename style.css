@@ -73,6 +73,10 @@ font-size: 1.5em;
     margin-left: 35px;
 }
 
+.first .quarter p{
+    padding-right: 30px;
+}
+
 .second div{
     width: 300px;
     margin-left: 35px;
