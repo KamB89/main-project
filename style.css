@@ -1,0 +1,245 @@
+
+@media  (max-width: 600px
+    
+){
+
+header{
+display: flex;
+margin: 0 auto;
+width: 300px;
+justify-content: space-between;
+}
+
+header p img{
+    margin-top: 15px;
+}
+
+.tour-guide{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.nav{
+    display: none;
+}
+
+.first{
+    width: 350px;
+    margin: 0 auto;
+}
+
+.second{
+    width: 350px;
+    margin: 0 auto; 
+    margin-top: 40px;
+
+}
+
+.gallery,.icons{
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 40px; 
+}
+.gallery{
+    margin-bottom: 100px;
+}
+
+.gallery-title{
+text-align: center;
+margin-bottom: 40px;
+font-size: 1.5em;
+}
+
+.third{
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-bottom: solid grey 1px;
+    height: 750px;
+
+}
+
+#text{
+    width: 91%;
+}
+.first-title{
+    font-size: 2em;
+
+}
+
+.first div{
+    width: 300px;
+    margin-left: 35px;
+}
+
+.second div{
+    width: 300px;
+    margin-left: 35px;
+}
+
+.third div{
+    width: 300px;
+    margin-left: 35px;
+
+}
+
+
+
+button{
+    height: 35px;
+    width: 100px;
+    margin-left: 35px;
+    border: grey 1px solid;
+    border-radius: 5px;
+}
+
+
+}
+
+.icons{
+    width: 300px;
+    text-align: center;
+}
+
+.first-icon{
+    border-bottom: grey 1px solid;
+width: 300px;
+margin-bottom: 50px;
+height: 200px;
+
+}
+
+.second-icon,
+.third-icon,
+.fourth-icon,
+.fifth-icon,
+.sixth-icon{
+    margin-top: 40px;
+    border-bottom: grey 1px solid;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 50px;
+
+
+    
+}
+
+.textbtns{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    border-bottom: grey 1px solid;
+    height: 90px;
+}
+
+
+button{
+    height: 22px;
+}
+
+.textbtns form{
+    height: 60px;
+}
+
+
+footer{
+    width: 300px;
+    margin: 0 auto;
+}
+footer p{
+    font-weight: 700;
+}
+footer h1{
+    width: 120px;
+    margin: 0 auto;
+    margin-top: 75px;
+}
+
+.untitled{
+    font-weight: 300;
+    margin: 0 auto;
+    width: 125px;
+    margin-top: 30px;
+}
+
+
+.features{
+    width: 50px;
+    margin: 0 auto;
+    width: 95px;
+}
+
+
+.inputs input{
+    width: 270px;
+}
+
+.inputs form{
+    margin-top: 25px;
+}
+
+.select label{
+    font-size: 700;
+}
+
+.select{
+    margin-left: 0px;
+}
+
+.select select{
+width: 280px;
+margin-top: 10px;
+margin-bottom: 20px;
+}
+
+
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.textbtns {
+    display: flex;
+    justify-content: space-between;
+    width: 93%;
+}
+
+.footer-icons{
+    margin: 0 auto;
+    width: 230px;
+}
+
+.footer-icons img{
+    border: 1px solid grey;
+    border-radius: 21px;
+}
+
+.text{
+    display: none;
+}
+
+.image5{
+    display: none;
+}
+y
+.nav{
+    display: none;
+}
+
+.tour-guide{
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.nav-icons{
+    display: none;
+}
+
+.image6{
+    display: none;
+}
+
+.image7{
+    display: none;
+}

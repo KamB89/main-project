@@ -1,0 +1,197 @@
+@media(min-width:850px){
+
+.main-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+width: 100%;
+}
+
+.nav-icons{
+    display: flex;
+    padding-left: 10px;
+}
+
+.nav-icons img{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+
+}
+.first,
+.second{
+    border-bottom: 1px solid grey;
+}
+
+
+.first div{
+    width: 50%;
+}
+
+.first img{
+    width: 50%;
+}
+
+.second div{
+    width: 80%;
+
+}
+
+.second img{
+    width: 36%;
+}
+
+.third div{
+width: 80%;
+}
+
+.third img{
+width: 36%;
+}
+
+.gallery-images{
+    display: flex;
+}
+
+.gallery-title{
+margin:0 auto;
+width: 75px;
+margin-top: 30px;
+font-weight: 700;
+
+
+}
+
+
+.image6{
+    display: block;
+}
+
+.image7{
+    display: block;
+}
+
+.gallery{
+    width: 100%;
+}
+.gallery-images img{
+    height: 150px;
+    width: 27%;
+}
+
+.gallery-images .image6{
+    width: 19%;
+}
+
+.icons{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 300px 300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+
+.first-icon{
+    border-left: none;
+    width: 100%;
+
+}
+
+
+
+.second-icon{
+    border-right: none;
+    width: 100%;
+}
+.third-icon{
+    border-left: 1px solid grey;
+    border-right: none;
+    width: 100%;
+}
+
+.fourth-icon{
+    border-right: 1px solid grey;
+    border-bottom: none;
+    width: 100%;
+
+}
+.fifth-icon{
+    border-right: 1px solid grey;
+    border-bottom: none;
+    width: 100%;
+
+}
+
+.sixth-icon{
+   border-bottom: none;
+    width: 100%;
+
+}
+
+
+
+
+footer{
+    width: 100%;
+}
+.inputs{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    column-gap: 2%;
+    width: 100%;
+}
+
+.inputs input{
+    width: 90%;
+    margin: 0px;
+}
+.inputs div{
+width: 100%;
+}
+.radiobtns{
+    width: 100%;
+    margin-left: 20px;
+}
+
+.radiobtns form input{
+    margin-left: 25px;
+}
+
+.textarea{
+    width: 100%;
+}
+#text{
+    width: 100%;
+}
+
+.textbtns{
+    width: 100%;
+}
+
+
+.select{
+    margin: 0 auto;
+    width: 100%;
+}
+.select form{
+    width: 100%;
+}
+#topic{
+    width: 100%;
+}
+
+.icon2 img{
+    padding-top: 20px;
+}
+
+.select form{
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+
+}

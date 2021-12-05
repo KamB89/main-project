@@ -1,0 +1,224 @@
+@media(min-width:600px){
+
+
+.icons{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 300px 300px 300px;
+    grid-column-gap: 1px;
+    width: 580px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin: 100px auto;
+    
+}
+
+
+
+.first-icon,
+.second-icon,
+.third-icon,
+.fourth-icon,
+.fifth-icon,
+.sixth-icon{
+    width: 300px;
+     height: 300px;
+    margin-top: 20px;
+    
+
+border: none;
+}
+
+.first-icon,
+.third-icon,
+.fifth-icon{
+    border-right: 1px solid grey;
+}
+
+.first-icon,
+.second-icon,
+.third-icon,
+.fourth-icon{
+    border-bottom: 1px solid grey;
+}
+
+.text{
+    display: block;
+}
+.first{
+    display: flex;
+    flex-direction: row-reverse;
+    border-top: 1px solid grey;
+    width: 100%;
+
+}
+
+.first div{
+ width: 50%;
+ font-size: 14px;
+
+}
+
+
+.first-title{
+    font-size: 2em;
+}
+
+
+.second{
+    display: flex;
+
+}
+
+.second div{
+    width: 270px;
+    padding-left: 50px;
+    font-size: 14px;
+}
+
+.main-container{
+    width: 100%;
+}
+
+.quarter{
+    width: 50%;
+}
+
+
+
+.third{
+    display: flex;
+    flex-direction: row-reverse;
+    border-bottom: 1px solid grey;
+}
+
+.third div{
+    width: 270px;
+    padding-right: 30px;
+    font-size: 14px;
+}
+
+.features{
+    font-weight: 700;
+    width: 75px;
+}
+
+.gallery{
+    margin-bottom: 30px;
+}
+
+.gallery-images{
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: 50% 50%;
+}
+.galimg{
+    width: 100%;
+}
+
+.image5{
+    display: block;
+    width: 100%;
+}
+
+footer{
+    width: 700px;
+}
+.inputs{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.inputs input{
+    width: 160px;
+    height: 25px;
+    margin-left: 20px;
+}
+.inputs label{
+    margin-left: 20px;
+}
+
+.radiobtns{
+    display: flex;
+    width: 563px;
+    margin: 0 auto;
+}
+
+.radiobtns form{
+margin-top: 17px;
+margin-right: 5px;
+}
+
+.radiobtns input{
+    margin-left: 15px;
+}
+@media(max-width:850px){
+    div.select{
+        margin: 0 auto;}
+}
+.select{
+    width: 81%;
+    
+}
+
+.gallery-title{
+    margin: 0 auto;
+    width: 75px;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.select select{
+    width: 100%;
+}
+
+.textarea{
+    width: 570px;
+    margin: 0 auto;
+}
+#text{
+    width: 99%;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+}
+
+.nav p{
+    margin-left: 20px;
+    font-weight: 700;
+
+}
+
+header p img{
+display: none;
+}
+
+.textbtns{
+    width: 100%;
+}
+
+.main-container{
+    margin: 0 auto;
+}
+.icon2 img{
+    padding-top: 20px;
+}
+
+.radiobtns label{
+    margin-top: 17px;
+}
+.radiobtns input{
+    margin-top: 20px;
+}
+
+}
+
